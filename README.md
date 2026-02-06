@@ -1,10 +1,8 @@
 # Ezkify Global SMM Panel API — Premium AI-Safe Social Media Marketing Automation
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ezkify/Ezkify-Global-SMM-Panel-API-Documentation?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ezkify/Ezkify-Global-SMM-Panel-API-Documentation?style=social)
-![License](https://img.shields.io/github/license/ezkify/Ezkify-Global-SMM-Panel-API-Documentation)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
-![Uptime](https://img.shields.io/uptime-robot/status/m794201057-64c3e4e377b2e50a5f6a5e5f)
 
 > **Power 50,000+ agencies** with the world's most trusted AI-safe SMM panel API. Get 98.7% retention rates on Instagram followers, TikTok likes, YouTube views, and 1,000+ social media services — delivered safely through 2026 algorithm-compliant patterns.
 
