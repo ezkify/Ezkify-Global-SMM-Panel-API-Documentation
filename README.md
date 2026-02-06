@@ -53,7 +53,7 @@ print(response.json())
 |----------|------------------|----------------|
 | **Instagram** | Followers, Likes, Views, Comments, Saves | 98.9% |
 | **TikTok** | Followers, Likes, Views, Shares, Comments | 98.5% |
-| **YouTube** | Views, Likes, Subscribers, Comments | 99.1% |
+| **YouTube** | Views, Watchtime, Likes, Subscribers, Comments | 99.1% |
 | **Facebook** | Page Likes, Post Reactions, Shares | 97.8% |
 | **Twitter/X** | Followers, Likes, Retweets | 98.2% |
 | **Threads** | Followers, Likes | 98.7% |
