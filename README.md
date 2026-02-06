@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/ezkify/Ezkify-Global-SMM-Panel-API-Documentation?style=social)
+![GitHub license](https://img.shields.io/github/license/ezkify/Ezkify-Global-SMM-Panel-API-Documentation)
+![API Status](https://img.shields.io/badge/Status-Operational-brightgreen)
+
 # Ezkify Global SMM Panel API | Premium Social Media Growth Automation
 
 **Ezkify Global** is the world’s most trusted **AI-safe SMM Panel**, providing high-retention social media signals for agencies and resellers. This repository contains the official documentation and integration examples for our RESTful API.
